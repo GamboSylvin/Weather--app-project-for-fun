@@ -1,0 +1,1 @@
+export const METEO_API_KEY="sbCV5odkqO4WVkuQdyeEehKxdBV84Ow6";
